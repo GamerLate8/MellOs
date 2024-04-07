@@ -1,3 +1,5 @@
+// KERNEL_GRAPHICS.C //
+
 void DrawPixel(int x, int y);
 void _start(){
 	DrawPixel(1,0);
